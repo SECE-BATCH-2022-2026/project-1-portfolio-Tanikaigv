@@ -1,0 +1,104 @@
+body{
+    background-image: url('abt\ bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: lightgray;
+}
+h1{
+    color: red;
+    margin: 40px;
+    margin-left: 80px;
+    margin-bottom: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content{
+    margin: 30px;
+    margin-left: 200px;
+    margin-top: 70px;
+    width: 70%;
+    font-size: 20px;
+    text-align:justify;
+    line-height: 40px;
+    font-family:sans-serif;
+    border-style:solid;
+    border-radius: 20px;
+}
+.content span{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+.content .cnt1{
+    padding: 30px;
+    background-color: rgb(44, 42, 42);
+    color: white;
+}
+.cnt2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    display: block;
+    margin-left: 16%;
+    margin-bottom: 100px;
+    font-weight: bold;
+    padding: 30px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(44, 42, 42);
+}
+.cnt2 h2{
+    font-size:35px;
+    color: red;
+    padding: 10px;
+}
+.cnt2 p{
+    font-size:20px;
+    padding: 9px;
+    padding-left: 30px;
+    color: white;
+}
+.cnt2 .p2{
+    padding-left: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.container .cnt3{
+    margin-top: 85px;
+    align-items: center;
+}
+.cnt3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 270px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(44, 42, 42);
+    margin-bottom: 100px;
+}
+.cnt3 h2{
+    margin-top: 80px;
+    margin-left: 37%;
+    font-size: 35px;
+    color: red;
+}
+.cnt3 .c1{
+    display: flex;
+}
+.cnt3 .c1 p{
+    color: white;
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 80px;
+}
+.cnt3 .c2{
+    display: flex;
+}
+.cnt3 .c2 p{
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-right: 60px;
+}
